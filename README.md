@@ -1,2 +1,3 @@
 # Lista_De_Tareas
-Lista de tareas con DOM
+Creando una lista de tareas con el uso del DOM
+![alt text](image.png)
